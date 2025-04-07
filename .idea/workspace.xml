@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aded6f79-a6d6-47ee-8d8c-cce31ad09679" name="변경" comment="3/24영화 오후">
+      <change afterPath="$PROJECT_DIR$/movier2025-1-main/front/movie_front.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movier2025-1-main/front/movie_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movier2025-1-main/app/recommender.py" beforeDir="false" afterPath="$PROJECT_DIR$/movier2025-1-main/app/recommender.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movier2025-1-main/app/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/movier2025-1-main/app/resolver.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;2021143021&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/2021143021/movier2025-1.git&quot;,
+    &quot;accountId&quot;: &quot;3a67e22c-a814-42ae-a502-67667e55664d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ukE5k2ASrG1LhSRhgfnx7grhrJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.main.executor": "Run",
+    "Python.model_train.executor": "Run",
+    "Python.movie_preprocess.executor": "Run",
+    "Python.recommender.executor": "Run",
+    "Python.resolver.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\movie\app\data" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="aded6f79-a6d6-47ee-8d8c-cce31ad09679" name="변경" comment="" />
+      <created>1742783990218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742783990218</updated>
+    </task>
+    <task id="LOCAL-00001" summary="3/24데이터전처리중 오전">
+      <option name="closed" value="true" />
+      <created>1742786385652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742786385652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3/24데이터전처리중 오전">
+      <option name="closed" value="true" />
+      <created>1742786398846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742786398846</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3/24영화 오후">
+      <option name="closed" value="true" />
+      <created>1742800218763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742800218763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3/24데이터전처리중 오전" />
+    <MESSAGE value="3/24영화 오후" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/24영화 오후" />
+  </component>
+</project>
